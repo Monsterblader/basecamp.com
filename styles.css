@@ -1,0 +1,106 @@
+body{
+  /* rules go here */
+}
+
+#container {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+header {
+	border: 0px 0px 2px 0px solid blue;
+	height: 100px;
+	font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+ul li {
+	display: inline;
+}
+
+h1 {
+	font-size: 46px;
+	letter-spacing: -1px;
+	line-height: 50px;
+	text-align: center;
+	margin: 0;
+}
+
+article {
+	width: 95%;
+	margin: 0 auto;
+}
+
+#hook {
+	width: 95%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 50px;
+	font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+footer {
+	//
+}
+
+#signUp {
+	float: right;
+	border: 0px solid red;
+	text-align: center;
+	line-height: .25em;
+	padding: 30px 30px 10px 0px;
+}
+
+.headerDiv {
+	float: left;
+	margin-right: 20px;
+}
+
+#cloud {
+	position: absolute;
+	z-index: 5;
+}
+
+#picText {
+	position: absolute;
+	width: 200px;
+	z-index: 7;
+	padding-top: 55px;
+	padding-left: 50px;
+	font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+#lady {
+	position: relative;
+	left: 150px;
+	top: 100px;
+	z-index: 7;
+}
+
+#epithet {
+	position: relative;
+	left: 200px;
+	top: 100px;
+	z-index: 8;
+	font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+#freeTrial {
+	position: relative;
+	left: 600px;
+	top: -450px;
+	text-align: center;
+	width: 350px;
+	z-index: 7;
+	font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+#description{
+	position: relative;
+	text-align: center;
+	width: 350px;
+	z-index: 7;
+	font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+
+
